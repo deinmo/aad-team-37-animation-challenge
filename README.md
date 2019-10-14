@@ -1,2 +1,2 @@
-# aad-team-37-animation-challenge
+# AAD Team 37 Animation Challenge
 Initial commit

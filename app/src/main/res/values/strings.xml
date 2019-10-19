@@ -1,3 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AAD Team 37 Animation Challenge</string>
+    <string name="app_name">Africa</string>
+    <string name="title">Tour Africa</string>
+    <string name="subtitle">AFRICA AT A GLANCE</string>
+    <string name="menu_1">Nigeria</string>
+    <string name="menu_2">South Africa</string>
+    <string name="menu_3">Kenya</string>
+    <string name="menu_4">Ghana</string>
+    <string name="menu_5">Uganda</string>
+    <string name="menu_6">Egypt</string>
+    <string name="level_beginner">Greetings</string>
+    <string name="level_intermediate">Capital</string>
+    <string name="level_advanced">Population</string>
+    <string name="promise">coming soon…</string>
+    <string name="title_settings">Settings</string>
+    <string name="menu_training_plans">Team Profile</string>
+    <string name="menu_reminder">About ALC</string>
+    <string name="menu_settings">Settings</string>
 </resources>

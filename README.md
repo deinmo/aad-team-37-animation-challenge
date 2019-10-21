@@ -1,2 +1,5 @@
 # AAD Team 37 Animation Challenge
-Initial commit
+# Team Members
+1. Maduabuaghichi Achilefu
+2. Anthony
+3. Isaiah
